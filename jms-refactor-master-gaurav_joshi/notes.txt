@@ -1,0 +1,5 @@
+Potential reason for changes,
+1. Different Broker Technology
+2. Sending receing message vs life cycle of services.
+3. Statistics
+
